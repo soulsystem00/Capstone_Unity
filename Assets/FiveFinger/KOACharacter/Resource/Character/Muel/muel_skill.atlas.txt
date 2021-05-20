@@ -1,0 +1,118 @@
+
+muel_skill.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aaaa
+  rotate: false
+  xy: 313, 246
+  size: 624, 130
+  orig: 629, 132
+  offset: 1, 1
+  index: -1
+dust1
+  rotate: true
+  xy: 738, 378
+  size: 107, 149
+  orig: 111, 158
+  offset: 4, 8
+  index: -1
+dust2
+  rotate: true
+  xy: 159, 310
+  size: 142, 152
+  orig: 190, 162
+  offset: 22, 4
+  index: -1
+dust3
+  rotate: false
+  xy: 2, 320
+  size: 155, 134
+  orig: 190, 162
+  offset: 18, 9
+  index: -1
+ef_19_0000
+  rotate: false
+  xy: 70, 457
+  size: 66, 28
+  orig: 75, 36
+  offset: 2, 3
+  index: -1
+ef_19_0001
+  rotate: false
+  xy: 279, 454
+  size: 68, 31
+  orig: 75, 36
+  offset: 2, 2
+  index: -1
+ef_19_0002
+  rotate: false
+  xy: 349, 453
+  size: 69, 32
+  orig: 75, 36
+  offset: 2, 2
+  index: -1
+ef_19_0003
+  rotate: false
+  xy: 209, 455
+  size: 68, 30
+  orig: 75, 36
+  offset: 4, 2
+  index: -1
+ef_19_0004
+  rotate: false
+  xy: 138, 456
+  size: 69, 29
+  orig: 75, 36
+  offset: 4, 4
+  index: -1
+ef_19_0005
+  rotate: false
+  xy: 2, 473
+  size: 66, 12
+  orig: 75, 36
+  offset: 4, 21
+  index: -1
+fire ball
+  rotate: false
+  xy: 638, 405
+  size: 98, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+fog1
+  rotate: false
+  xy: 516, 422
+  size: 120, 63
+  orig: 169, 78
+  offset: 21, 8
+  index: -1
+fog2
+  rotate: false
+  xy: 420, 434
+  size: 94, 51
+  orig: 102, 67
+  offset: 6, 13
+  index: -1
+muel_explotion_1
+  rotate: false
+  xy: 2, 119
+  size: 249, 189
+  orig: 250, 190
+  offset: 0, 0
+  index: -1
+muel_explotion_2
+  rotate: false
+  xy: 253, 43
+  size: 206, 201
+  orig: 250, 224
+  offset: 14, 0
+  index: -1
+muel_explotion_3
+  rotate: false
+  xy: 461, 2
+  size: 247, 242
+  orig: 250, 250
+  offset: 2, 0
+  index: -1

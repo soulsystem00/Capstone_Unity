@@ -1,0 +1,44 @@
+{
+    "name": "Fantasy Gui Pack",
+    "id": "com.deviongames.fantasyguipack",
+    "assetPath":"Assets/Devion Games/Fantasy Gui Pack",
+    "version": "1.4.2",
+    "unityVersion": "2019.4.1",
+    "downloadPath": "",
+    "assetStore": "https://assetstore.unity.com/packages/2d/gui/fantasy-gui-pack-17387",
+    "author": "Konstantin Janson",
+    "email": "support@unitycoding.com",
+    "description": "Customizable mobile gui interface, containing many elements to create a full mobile game.The elements are high quality and may need to be scaled down.",
+    "documentation": "https://deviongames.com/fantasy-gui-pack/",
+    "dependencies": 
+    [
+        "com.deviongames.utilities",
+        "com.deviongames.ui"
+    ],
+    "changelogs": 
+    [
+        {
+            "version": "1.4.0",
+            "changes": 
+            [
+                "Updated Scripts"
+            ]
+        },
+        {
+            "version": "1.4.1",
+            "changes": 
+            [
+                "Updated Scripts"
+            ]
+        }, 
+        {
+            "version": "1.4.2",
+            "changes": 
+            [
+                "Updated to Devion Games website.",
+                "Changed asset path from Unitycoding/Package to Devion Games/Package",
+                "Updated Documentation"
+            ]
+        }
+    ]
+}

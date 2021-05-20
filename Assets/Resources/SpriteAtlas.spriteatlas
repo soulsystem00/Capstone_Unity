@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 6bbcba4e267be464998897741b81d508, type: 3}
+    - {fileID: 21300000, guid: f87d9d25262734d879c2da72faf95bf2, type: 3}
+    - {fileID: 21300000, guid: 23d2f9d15f15a43c5bf2c57de1a27879, type: 3}
+    - {fileID: 21300000, guid: cb37917483ee24fea8fab306393441e5, type: 3}
+    - {fileID: 21300000, guid: 2bc701b63b63f40e0893a9fabeaa0a78, type: 3}
+    - {fileID: 21300000, guid: 86ad28a37b0134b33b88df67b42b7fe0, type: 3}
+    - {fileID: 21300000, guid: 681db73f19fb24efe843aad713eccb43, type: 3}
+    - {fileID: 21300000, guid: 362cdbc283a1c43a7abec33080b04398, type: 3}
+    - {fileID: 21300000, guid: 535d5068f6e6f4174a907fe1688dc8c1, type: 3}
+    - {fileID: 21300000, guid: 804461bef59b141dba258fc997c8ca15, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 23d2f9d15f15a43c5bf2c57de1a27879, type: 3}
+  - {fileID: 21300000, guid: 362cdbc283a1c43a7abec33080b04398, type: 3}
+  - {fileID: 21300000, guid: 86ad28a37b0134b33b88df67b42b7fe0, type: 3}
+  - {fileID: 21300000, guid: cb37917483ee24fea8fab306393441e5, type: 3}
+  - {fileID: 21300000, guid: f87d9d25262734d879c2da72faf95bf2, type: 3}
+  - {fileID: 21300000, guid: 2bc701b63b63f40e0893a9fabeaa0a78, type: 3}
+  - {fileID: 21300000, guid: 535d5068f6e6f4174a907fe1688dc8c1, type: 3}
+  - {fileID: 21300000, guid: 6bbcba4e267be464998897741b81d508, type: 3}
+  - {fileID: 21300000, guid: 804461bef59b141dba258fc997c8ca15, type: 3}
+  - {fileID: 21300000, guid: 681db73f19fb24efe843aad713eccb43, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - button_gray
+  - button_sky
+  - button_purple
+  - button_green
+  - button_dark
+  - button_orange
+  - button_white
+  - button_blue
+  - button_yellow
+  - button_red
+  m_Tag: SpriteAtlas
+  m_IsVariant: 0
