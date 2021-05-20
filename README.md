@@ -7,4 +7,10 @@
 유닛을 소환하여 상대방의 타워를 부수면 승리하게 됩니다.  
 
 ## 버전별 기록
-버전별 기록은 여기() 
+버전별 기록은 [여기](https://github.com/soulsystem00/Capstone_Unity/blob/master/VersionInfo.md)를 참고  
+
+## 팀원  
+[soulsystem00](https://github.com/soulsystem00)  
+[jooy319](https://github.com/jooy319)  
+[minje00](https://github.com/minje00)  
+[SeongHoon123](https://github.com/SeongHoon123)  
