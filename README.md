@@ -9,6 +9,9 @@
 ## 버전별 기록
 버전별 기록은 [여기](https://github.com/soulsystem00/Capstone_Unity/blob/master/VersionInfo.md)를 참고  
 
+## 멀티플레이  
+멀티플레이 서버에 대한 코드는 [여기](https://github.com/soulsystem00/Capstone_Server_VS_2019) 참고
+
 ## 팀원  
 [soulsystem00](https://github.com/soulsystem00)  
 [jooy319](https://github.com/jooy319)  
